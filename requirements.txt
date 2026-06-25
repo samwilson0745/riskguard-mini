@@ -1,0 +1,8 @@
+xgboost>=2.0
+scikit-learn>=1.4
+pandas>=2.0
+numpy>=1.26
+streamlit>=1.35
+plotly>=5.20
+google-genai>=1.0
+joblib>=1.3
