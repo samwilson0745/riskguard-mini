@@ -121,3 +121,9 @@ riskguard-mini/
 - **Plotly** — feature importance chart
 - **Google Gemini** (`gemini-3.1-flash-lite`) — compliance memo generation
 - **joblib** — model serialisation
+
+## Some Screenshots
+
+<img width="1470" height="956" alt="Screenshot 2026-06-26 at 3 11 36 AM" src="https://github.com/user-attachments/assets/dfb6b2ff-fe9d-49c2-8b52-e08b27b00ef1" />
+<img width="1468" height="827" alt="Screenshot 2026-06-26 at 3 11 47 AM" src="https://github.com/user-attachments/assets/bd7d08a6-5018-48c8-bcff-20e1cd2b4623" />
+
